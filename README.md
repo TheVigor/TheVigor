@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://purenative-github-readme-stats.vercel.app/api/top-langs/?username=TheVigor&layout=compact&locale=en&exclude_repo=SvonlyFans,comixGAN" alt="thevigor" /></p>
 
-</br>
+<h3 align="center"></h3>
 
 <p><img align="left" src="https://purenative-github-readme-stats.vercel.app/api?username=TheVigor&count_private=true&show_icons=true&theme=dracula&locale=en" alt="thevigor" /></p>
 
