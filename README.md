@@ -1,7 +1,5 @@
 [![](https://img.shields.io/static/v1?label=PureNative&message=TheVigor&color=blue)](https://t.me/android_mem)
-[![](https://komarev.com/ghpvc/?username=thevigor&label=Profile%20views&color=0e75b6&style=flat)]
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevigor&label=Profile%20views&color=0e75b6&style=flat" alt="thevigor" /> </p>
+![](https://komarev.com/ghpvc/?username=thevigor&label=Profile%20views&color=0e75b6&style=flat)
 
 <h3 align="center">Android/iOS developer</h3>
 
