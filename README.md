@@ -1,4 +1,5 @@
-[![](https://img.shields.io/static/v1?label=PureNative&message=TheVigor&color=blue)](https://t.me/android_mem)
+[![](https://img.shields.io/static/v1?label=In AsyncTask We Trust&message=Memes&color=blue)](https://t.me/android_mem)
+[![](https://img.shields.io/static/v1?label=We Love Androidt&message=News&color=red)](https://t.me/we_love_android)
 ![](https://komarev.com/ghpvc/?username=thevigor&label=Profile%20views&color=0e75b6&style=flat)
 
 <h3 align="center">Android/iOS developer</h3>
